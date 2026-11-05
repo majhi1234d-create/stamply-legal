@@ -1,0 +1,10 @@
+Stamply — veřejné právní stránky
+
+Nahrajte celý obsah této složky na veřejný web přes HTTPS, bez přihlášení nebo geografického omezení. Soubor privacy.html je výchozí anglické znění zásad s přepínači všech šesti jazyků; české znění je cs-privacy.html. Podmínky: terms.html nebo cs-terms.html. Licence: licenses.html nebo cs-licenses.html. Složku licenses ponechte vedle HTML souborů.
+
+Po nahrání zkontrolujte dostupnost URL privacy.html v anonymním okně a tuto skutečnou URL vložte do Google Play Console. ZIP ani lokální soubor nevkládejte jako URL zásad. Aplikace obsahuje stejné plné zásady offline. Hostingovou doménu je ještě nutné určit; tento balíček nebyl automaticky zveřejněný.
+
+Kontakt: digitalcompanysro@gmail.com
+Znění dokumentů: 4. listopadu 2026.
+
+Soubor neobsahuje neveřejné kontrolní kódy. Právní soubory neobsahují měřicí skripty, formuláře ani externí fonty; provoz webového hostingu může samostatně vytvářet přístupové logy podle konfigurace hostitele. Při doplnění dalších webových služeb je nutné jejich zpracování promítnout do informací o soukromí.
